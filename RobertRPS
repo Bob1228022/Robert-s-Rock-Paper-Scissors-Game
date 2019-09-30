@@ -1,5 +1,5 @@
 from random import randint
-print("Welcome to the premier rock, paper, scissors game. Play till 10!")
+print("Welcome to the premier rock, paper, scissors game. Play till 11!")
 t = ["Rock", "Paper", "Scissors"]
 player_wins = 0
 computer_wins = 0
